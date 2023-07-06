@@ -31,8 +31,8 @@ $fadeout 1.5
 
 CR27
 {
-Black Mesa Research Facility
-Black Mesa, New Mexico
+'Black Mesa' tyrimų centras
+'Black Mesa', Naujoji Meksika
 }
 
 
@@ -212,7 +212,7 @@ $holdtime 4
 
 VALVEIS
 {
-Valve is:
+Valve yra:
 }
 
 END1
@@ -277,45 +277,45 @@ $fadeout 1.5
 
 CR28
 {
-SUBJECT:
-Gordon Freeman
-Male, age 27
+SUBJEKTAS:
+Gordonas Frimanas
+Vyras, 27 metų
 }
 
 CR29
 {
-EDUCATION:
-Ph.D., MIT, Theoretical Physics
+IŠSILAVINIMAS:
+Ph.D., MIT, Teorinė fizika
 }
 
 CR30
 {
 POSITION:
-Research Associate
+Mokslininko padėjėjas
 }
 
 CR31
 {
-ASSIGNMENT:
-Anomalous Materials Laboratory
+PASKYRIMAS:
+Anomalių medžiagų laboratorija
 }
 
 CR32
 {
-CLEARANCE:
-Level 3
+LEIDIMAS:
+3 lygis
 }
 
 CR33
 {
-ADMINISTRATIVE SPONSOR:
-Classified
+ADMINISTRACINIS RĖMĖJAS:
+Įslaptinta
 }
 
 CR34
 {
-DISASTER RESPONSE PRIORITY:
-Discretionary
+REGAVIMO Į NELAIMES PRIORITETAS:
+Nuspręstinis
 }
 
 $fadein 0.03
@@ -323,24 +323,24 @@ $holdtime 9
 
 GAMEOVER
 {
-SUBJECT:  FREEMAN
+SUBJEKTAS:  FRIMANAS
 
-STATUS:  EVALUATION TERMINATED
+STATUSAS: VERTINIMAS NUTRAUKTAS
 
 POSTMORTEM:
-Subject failed to effectively utilize
-human assets in achievement of goal.
+Subjektas nesugebėjo efektyviai panaudoti 
+žmogiškųjų išteklių siekdamas tikslo.
 }
 
 $fadein 0.03
 $holdtime 9
 TRAITOR
 {
-SUBJECT:  FREEMAN
+SUBJEKTAS:  FRIMANAS
 
-STATUS:  HIRED
+STATUSAS: ĮDARBINTAS
 
-AWAITING ASSIGNMENT
+LAUKIA UŽDUOTES
 }
 
 
@@ -348,12 +348,12 @@ $fadein 0.03
 $holdtime 9
 LOSER
 {
-SUBJECT:  FREEMAN
+SUBJEKTAS:  FRIMANAS
 
-STATUS:  OBSERVATION TERMINATED
+STATUSAS: STEBĖJIMAS NUTRAUKTAS
 
 POSTMORTEM:
-Subject declined offer of employment.
+Subjektas atsisakė darbo pasiūlymo.
 }
 
 //CHAPTER TITLES
@@ -363,13 +363,13 @@ $position -1 0.4
 $holdtime 3.5
 T0A0TITLE
 {
-HAZARD COURSE
+PAVOJUS KURSAS
 }
 
 $position -1 0.65
 C0A0TITLE
 {
-BLACK MESA INBOUND
+'BLACK MESA' ATVYKIMAS
 }
 
 OPENTITLE3
@@ -384,77 +384,77 @@ OPENTITLE4
 
 C0A1TITLE
 {
-ANOMALOUS MATERIALS
+ANOMALINĖS MEDŽIAGOS
 }
 
 C1A1TITLE
 {
-UNFORESEEN CONSEQUENCES
+NENUMATYTOS PASEKMĖS
 }
 
 C1A2TITLE
 {
-OFFICE COMPLEX
+BIURAS
 }
 
 C1A3TITLE
 {
-"WE'VE GOT HOSTILES"
+"TURIME PRIEŠU!"
 }
 
 C1A4TITLE
 {
-BLAST PIT
+SPŪDINĖ DUOBĖ
 }
 
 C2A1TITLE
 {
-POWER UP
+JUNGIMO VEIKSMAS
 }
 
 C2A2TITLE
 {
-ON A RAIL
+ANT BĖGIŲ
 }
 
 C2A3TITLE
 {
-APPREHENSION
+SULAIKYMAS
 }
 
 C2A4TITLE1
 {
-RESIDUE PROCESSING
+LIKUČIŲ APDOROJIMAS
 }
 
 C2A4TITLE2
 {
-QUESTIONABLE ETHICS
+ABEJOTINA ETIKA
 }
 
 C2A5TITLE
 {
-SURFACE TENSION
+PAVIRŠIAUS ĮTEMPIMAS
 }
 
 C3A1TITLE
 {
-"FORGET ABOUT FREEMAN!"
+"PAMIRŠKITE APIE FRIMANĄ!"
 }
 
 C3A2TITLE
 {
-LAMBDA CORE
+LAMBDA ŠERDIS
 }
 
 C4A1TITLE
 {
-XEN
+ZEN
 }
 
 C4A1ATITLE
 {
-INTERLOPER
+ĮSIBROVĖLIS
 }
 
 C4A1BTITLE
