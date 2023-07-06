@@ -705,164 +705,164 @@ FLASHES IN THE CENTER OF YOUR SCREEN
 
 HZHAZARD
 {
-RADIATION HAZARDS 
-ACTIVATE A GEIGER COUNTER
+RADIACINIAI PAVOJAI
+AKTYVUOTI GEIGERIO SKAITIKĮ
 }
 
 HZSCIENTIST
 {
-APPROACH SCIENTIST
-PRESS USE KEY TO RECEIVE HEALTH FROM SCIENTIST
+PRIEIKITE PRIE MOKSLININKO
+PASPAUSKITE USE KLAVIŠĄ, KAD GAUTUMĖTE GYVYBIU IŠ MOKSLININKO
 }
 
 HZBARNEY
 {
-APPROACH SECURITY GUARD
-PRESS YOUR USE KEY TO GET HIS HELP
-WALK TOWARD DOOR AND GUARD
-WILL ACTIVATE BUTTONS
+PRIEIKITE PRIE APSAUGOS DARBUOTOJO
+PASPAUSKITE USE KLAVIŠĄ, KAD GAUTUMĖTE JO PAGALBĄ
+EIKITE PRIE DURŲ
+JIS JUM PADES ATIDARYTI JAS
 }
 
 HZTRAIN
 {
-PRESS USE KEY TO ENGAGE TRAIN
-PRESS FORWARD KEY TO ACCELERATE
-PRESS BACKWARD KEY TO DECELERATE
-PRESS USE KEY AGAIN TO DISENGAGE
+PASPAUSKITE USE KLAVIŠĄ, KAD ĮJUNGTI TRAUKINĮ
+PASPAUSKITE FORWARD KLAVIŠĄ, KAD PAGREITETUMĖTE
+PASPAUSKITE BACKWARD KLAVIŠĄ, KAD SULĖTĖTI
+DAR KARTĄ PASPAUSKITE USE KLAVIŠĄ, KAD SUTOTUMĖTE
 }
 
 HZDONE
 {
-CONGRATULATIONS!
-YOU HAVE COMPLETED 
-THE BLACK MESA HAZARD COURSE.
-COME BACK ANY TIME.
+SVEIKINAME!
+JŪS UŽBAIGĖTE
+"BLACK MESA" PAVOJŲ KURSĄ.
+GALITE GRYŽTI BET KADA.
 }
 
 Spec_Mode1
 {
-Locked Chase-Camera
+Užrakinta sekimo kamerą
 }
 
 Spec_Mode2
 {
-Free Chase-Camera
+Laisva sekimo kamerą
 }
 
 Spec_Mode3
 {
-Free-Look
+Laisvas dairymasis
 }
 
 Spec_Mode4
 {
-First Person
+Pirmo asmens
 }
 
 Spec_Mode5
 {
-Free Map Overview
+Laisva žemėlapio apžvalga
 }
 
 Spec_Mode6
 {
-Chase Map Overview
+Sėkamo žemėlapio apžvalga
 }
 
 Spec_NoTarget
 {
-No valid targets. Cannot switch to Chase-Camera Mode.
+Nėra galiojančių taikinių. Negalima pereiti į sekimo kameros režimą.
 }
 
 Spec_Help_Title
 {
-Spectator Mode
+Žiūrovo režimas
 }
 
 Spec_Help_Text
 {
-Use the following keys to change view styles:
+Norėdami pakeisti vaizdo stilių, naudokite šiuos klavišus:
 
- FIRE1 - Chase next player
- FIRE2 - Chase previous player
- JUMP - Change view modes
- USE - Change inset window mode
+ FIRE1 - Persekiokite kitą žaidėją
+ FIRE2 - Persekiokite ankstesnį žaidėją
+ JUMP - Keisti peržiūros režimus
+ USE - Pakeiskite įterpto lango režimą
  
- DUCK  - Enable spectator menu
+ DUCK  - Įgalinti žiūrovų meniu
   
-In Overview Map Mode move around with:
+Apžvalgos žemėlapio režimu judėkite naudodami:
 
- MOVELEFT - move left
- MOVERIGHT - move right
- FORWARD - zoom in
- BACK - zoom out
- MOUSE - rotate around map/target
+ MOVELEFT - judėkite kairėn
+ MOVERIGHT - judėkite į dešinę
+ FORWARD - priartinkite
+ BACK - atitolinti
+ MOUSE - sukite aplink žemėlapį/taikinį
 }
 
 Spec_Slow_Motion
 {
-Slow Motion
+Lėtas judėjimas
 }
 
 Spec_Replay
 {
-Instant Replay
+Momentinis pakartojimas
 }
 
 Spec_Auto
 {
-Auto
+Automatinis
 }
 
 // Multiplayer Scoreboard
 Spec_Map
 {
-Map
+Žemėlapis
 }
 
 Spectators
 {
-Spectators
+Žiūrovai
 }
 
 Unassigned
 {
-Unassigned
+Nepriskirtas
 }
 
 TEAMS
 {
-TEAMS
+KOMANDOS
 }
 
 PLAYERS
 {
-PLAYERS
+ŽAIDEJAI
 }
 
 CLASS
 {
-CLASS
+KLASE
 }
 
 SCORE
 {
-SCORE
+TAŠKAI
 }
 
 DEATHS
 {
-DEATHS
+MIRTYS
 }
 
 LATENCY
 {
-PING
+VĖLAVIMAS
 }
 
 VOICE
 {
-VOICE
+BALSAS
 }
 
 // other menu text
@@ -873,151 +873,151 @@ OK
 
 Menu_Cancel
 {
-CANCEL
+ATŠAUKTI
 }
 
 Mic_Volume
 {
-Mic Volume
+Mik. garsumas
 }
 
 Speaker_Volume
 {
-Speaker Volume
+Gars. garsumas
 }
 
 Voice_Properties
 {
-Voice Properties
+Balso parinktys
 }
 
 Map_Description_not_available
 {
-Map Description not available.
+Žemėlapis Aprašymas nepasiekiamas.
 }
 
 Player
 {
-player
+žaidėjas
 }
 
 Player_plural
 {
-players
+žaidėjai
 }
 
 Muted
 {
-You have muted %s.
+Jus nutildėte %s.
 }
 
 Unmuted
 {
-You have unmuted %s.
+You have unmuted %s. #fix
 }
 
 No_longer_hear_that_player
 {
-You will no longer hear that player speak.
+Jūs nebegirdėsite to žaidėjo.
 }
 
 OBS_NONE
 {
-Camera Options
+Kameros parinktys
 }
 
 OBS_CHASE_LOCKED
 {
-Locked Chase-Cam
+Užrakinta sekimo kamera
 }
 
 OBS_CHASE_FREE
 {
-Free Chase-Cam
+Laisva sekimo kamera
 }
 
 OBS_ROAMING
 {
-Roaming
+Laisvas dairymasis
 }
 
 OBS_IN_EYE
 {
-First Person
+Pirmo asmens
 }
 
 OBS_MAP_FREE
 {
-Free Overview
+Laisva žemėlapio apžvalga
 }
 
 OBS_MAP_CHASE
 {
-Chase-Cam Overview
+Sekamo žemėlapio apžvalga
 }
 
 SPECT_OPTIONS
 {
-Options
+Parinktys
 }
 
 CAM_OPTIONS
 {
-Camera Options
+Kameros parinktys
 }
 
 Spec_Duck
 {
-Press DUCK for Spectator Menu
+Paspauskite DUCK, kad atidarytumėte žiūrovų meniu
 }
 
 Valve_Close
 {
-Close
+Uždaryti
 }
 
 Valve_Help
 {
-Help
+Pagalba
 }
 
 Valve_Settings
 {
-Settings
+Parinktys
 }
 
 Valve_Chat_Messages
 {
-Chat Messages
+Pokalbių pranešimai
 }
 
 Valve_Show_Status
 {
-Show Status
+Rodyti būseną
 }
 
 Valve_View_Cone
 {
-View Cone
+Rodyti matymo kampą
 }
 
 Valve_Player_Names
 {
-Player Names
+Žaidėjo vardas
 }
 
 Valve_PIP
 {
-Picture-In-Picture
+Paveikslėlis per paveikslėlį
 }
 
 Valve_Auto_Director
 {
-Auto Director
+Automatinis režisierius
 }
 
 Valve_Show_Score
 {
-Show Scores
+Rodyti taškus
 }
 
